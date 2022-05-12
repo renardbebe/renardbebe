@@ -26,7 +26,7 @@ experience:
   - title: R&D Intern
     company: Tencent
     company_url: ''
-    company_logo: org-x
+    company_logo: tencent
     location: Shenzhen
     date_start: '2021-05-14'
     date_end: '2021-09-06'

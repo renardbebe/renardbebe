@@ -38,7 +38,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=cnJmQZkAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab

@@ -7,10 +7,10 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Experience
-subtitle: Highlights from my most recent employment history
+subtitle: Employment Experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format

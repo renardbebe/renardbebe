@@ -37,7 +37,7 @@ experience:
     company_logo: tencent
     location: Shenzhen
     date_start: '2022-07-08'
-    # date_end: ''
+    date_end: ''
     description: [Data Security Governance Center] Data asset sorting, intelligent data classification and classification, risk assessment management and control, data security compliance, comprehensive report analysis.
 
 design:

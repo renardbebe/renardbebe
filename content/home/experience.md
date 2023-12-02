@@ -30,7 +30,8 @@ experience:
     location: Shenzhen
     date_start: '2021-05-14'
     date_end: '2021-09-06'
-    description: [Secret Management System & Key Management System] Credential management, credential rotation, access control, key escrow, key distribution, cryptographic services.
+    description: | 
+    [Secret Management System & Key Management System] Credential management, credential rotation, access control, key escrow, key distribution, cryptographic services.
   - title: R&D Engineer
     company: Tencent
     company_url: 'https://www.tencent.com/'
@@ -38,7 +39,8 @@ experience:
     location: Shenzhen
     date_start: '2022-07-08'
     date_end: ''
-    description: [Data Security Governance Center] Data asset sorting, intelligent data classification and classification, risk assessment management and control, data security compliance, comprehensive report analysis.
+    description: | 
+    [Data Security Governance Center] Data asset sorting, intelligent data classification and classification, risk assessment management and control, data security compliance, comprehensive report analysis.
 
 design:
   columns: '2'

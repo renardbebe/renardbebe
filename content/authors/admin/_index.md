@@ -6,21 +6,21 @@ title: Meng Ren
 superuser: true
 
 # Role/position/tagline
-# role: 
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/
+  - name: Tencent Security Yunding Lab
+    url: https://cloudsec.tencent.com/home/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
 # Interests to show in About widget
 interests:
-  - Fuzz Testing
-  - Blockchain Security
   - Data Security
+  - Data Governance
+  - Privacy Protection
 
 # Education to show in About widget
 education:
@@ -55,14 +55,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'rm19@mails.tsinghua.edu.cn'
+email: 'rm19@tsinghua.org.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am Miss. Meng, a fresh nymphean programmer. I graduated from Sun Yat-sen University in 2019 and am currently studying at the School of Software, Tsinghua University. I am under the tutelage of Associate Professor. Yu Jiang, and my research direction is blockchain security. I have won the National Scholarship for three times and won the Outstanding Graduate Award. 
+Hello, this is Meng, a data security engineer. I received a bachelor's degree in engineering from Sun Yat-sen University in 2019 and a master's degree in engineering from Tsinghua University in 2022. I am under the tutelage of Associate Professor. Yu Jiang, and my research direction is blockchain security and fuzz testing. I have won the National Scholarship for three times and won the Outstanding Graduate Award. 
 
-In the future, I will work at Tencent Security group and engage in data security research and development.
+Currently, I am engaged in data security and data governance at Tencent Security Yunding Lab, responsible for Data Security Governance Center, API security products. Anyone interested is welcome to communicate with me.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
